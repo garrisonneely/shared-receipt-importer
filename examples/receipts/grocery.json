@@ -1,0 +1,13 @@
+{
+  "store": "Corner Market",
+  "date": "2026-10-30",
+  "paid_by": "Alice",
+  "items": [
+    {"name": "Tortilla Chips", "price": 3.50, "quantity": 2},
+    {"name": "Salsa", "price": 4.25},
+    {"name": "IPA 6-pack", "price": 11.99},
+    {"name": "Root Beer", "price": 5.00},
+    {"name": "House Red", "price": 14.00, "alcohol": true}
+  ],
+  "tax": 2.50
+}

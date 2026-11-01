@@ -1,0 +1,12 @@
+[
+  {
+    "store": "Taco Place",
+    "date": "2026-10-31",
+    "paid_by": "Bob",
+    "items": [
+      {"name": "Taco Platter", "price": 36.00},
+      {"name": "Margarita", "price": 9.00, "quantity": 2, "alcohol": true},
+      {"name": "Lemonade", "price": 3.00}
+    ]
+  }
+]
